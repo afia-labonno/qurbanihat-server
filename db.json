@@ -157,11 +157,12 @@
       "category": "Small Animal"
     }
   ],
-  
+
   "featured": [
     {
       "id": 1,
       "type": "Bull",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLIwEPcLsebKgrDKNp01GNn4yl8Ph4aPYjg&s",
       "category": "Premium Bulls",
       "total": 120,
       "description": "Strong and healthy farm-raised bulls suitable for qurbani."
@@ -169,6 +170,7 @@
     {
       "id": 2,
       "type": "Goat",
+      "image": "https://tiimg.tistatic.com/fp/1/007/847/20-kilogram-weight-12-months-age-white-brown-boer-breed-male-goat--630.jpg",
       "category": "Healthy Goats",
       "total": 85,
       "description": "Farm-raised goats with proper care and natural feeding."
@@ -176,6 +178,7 @@
     {
       "id": 3,
       "type": "Buffalo",
+      "image": "https://www.dial4trade.com/uploaded_files/product_images/thumbs/black-murrah-buffalo-1839651474470.jpg",
       "category": "Farm Buffalo",
       "total": 45,
       "description": "Large and powerful buffalo from trusted local farms."
@@ -183,6 +186,7 @@
     {
       "id": 4,
       "type": "Sheep",
+      "image": "https://media.istockphoto.com/id/118972834/photo/bighorn-ram-whit-beautiful-wool-fur.jpg?s=612x612&w=0&k=20&c=mSCUjnyGl96KYWRIlrtHwx7C0cSkq3nLoDeYsTG9zOQ=",
       "category": "White Sheep",
       "total": 60,
       "description": "Healthy sheep suitable for small and family qurbani."
