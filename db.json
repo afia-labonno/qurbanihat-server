@@ -191,5 +191,40 @@
       "total": 60,
       "description": "Healthy sheep suitable for small and family qurbani."
     }
+  ],
+
+  "qurbaniTips" :[
+    {
+    "id": 1,
+    "badge": "Check Health",
+    "title": "Choose Healthy Animals",
+    "description":"Check the animal’s eyes, movement, and feeding habits before buying.",
+    "icon": "cow"
+  },
+
+  {
+    "id": 2,
+    "badge": "Verify Health",
+    "title": "Verify Health Condition",
+    "description": "Ensure the animal is vaccinated and farm-raised properly.",
+    "icon": "injection"
+  },
+
+  {
+    "id": 3,
+    "badge": "Check Age",
+    "title": "Check Age Properly",
+    "description":"Select animals that meet the Islamic Qurbani age requirements.",
+    "icon": "ruler"
+  },
+
+  {
+    "id": 4,
+    "badge": "Book Early",
+    "title": "Verify Animal's Health",
+    "description": "Early booking helps avoid price increases before Eid.",
+    "icon": "truck"
+  }
+
   ]
 }
