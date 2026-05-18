@@ -156,5 +156,36 @@
       "image": "https://i.postimg.cc/gkL5V4f5/sheep-3.jpg",
       "category": "Small Animal"
     }
+  ],
+  
+  "featured": [
+    {
+      "id": 1,
+      "type": "Bull",
+      "category": "Premium Bulls",
+      "total": 120,
+      "description": "Strong and healthy farm-raised bulls suitable for qurbani."
+    },
+    {
+      "id": 2,
+      "type": "Goat",
+      "category": "Healthy Goats",
+      "total": 85,
+      "description": "Farm-raised goats with proper care and natural feeding."
+    },
+    {
+      "id": 3,
+      "type": "Buffalo",
+      "category": "Farm Buffalo",
+      "total": 45,
+      "description": "Large and powerful buffalo from trusted local farms."
+    },
+    {
+      "id": 4,
+      "type": "Sheep",
+      "category": "White Sheep",
+      "total": 60,
+      "description": "Healthy sheep suitable for small and family qurbani."
+    }
   ]
 }
