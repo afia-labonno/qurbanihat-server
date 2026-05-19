@@ -9,6 +9,9 @@
       "weight": 420,
       "age": 4,
       "location": "Rajshahi",
+      "sellerName": "Abdul Karim",
+      "healthStatus": "Excellent",
+      "vaccinated": true,
       "description": "Strong and healthy bull raised in a natural farm environment. Perfect for Qurbani.",
       "image": "https://images.olx.com.pk/thumbnails/612346448-400x300.jpeg",
       "category": "Large Animal"
@@ -22,6 +25,9 @@
       "weight": 350,
       "age": 3,
       "location": "Bogura",
+      "sellerName": "Mahmud Hasan",
+      "healthStatus": "Very Good",
+      "vaccinated": true,
       "description": "Well-fed deshi bull with excellent health and active condition.",
       "image": "https://i.pinimg.com/736x/62/d8/61/62d8615e3a190e6f774571c86304099d.jpg",
       "category": "Large Animal"
@@ -35,6 +41,9 @@
       "weight": 510,
       "age": 5,
       "location": "Sirajganj",
+      "sellerName": "Rezaul Islam",
+      "healthStatus": "Excellent",
+      "vaccinated": true,
       "description": "Premium quality Sahiwal bull suitable for large family Qurbani.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7NMEVjJ5pA644hV-UxPKeNEBO2MgZH8cRA&s",
       "category": "Large Animal"
@@ -48,6 +57,9 @@
       "weight": 35,
       "age": 2,
       "location": "Khulna",
+      "sellerName": "Jahangir Alam",
+      "healthStatus": "Healthy",
+      "vaccinated": true,
       "description": "Healthy Black Bengal goat raised with organic food and proper care.",
       "image": "https://cdn.morningchores.com/wp-content/uploads/2019/08/Black-Bengal-Goat-Breed-Info-Characteristics-Breeding-and-Care-FI-1.jpg",
       "category": "Small Animal"
@@ -61,6 +73,9 @@
       "weight": 48,
       "age": 2,
       "location": "Dhaka",
+      "sellerName": "Sabbir Ahmed",
+      "healthStatus": "Excellent",
+      "vaccinated": true,
       "description": "Large and attractive Jamunapari goat suitable for Qurbani.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9lzZm0ZW9RKJMA9UaoPT95VIu5UxWyMLERQ&s",
       "category": "Small Animal"
@@ -74,6 +89,9 @@
       "weight": 30,
       "age": 1,
       "location": "Mymensingh",
+      "sellerName": "Rakib Hossain",
+      "healthStatus": "Good",
+      "vaccinated": false,
       "description": "Affordable healthy goat with natural feeding and active condition.",
       "image": "https://www.thehappychickencoop.com/wp-content/uploads/2022/01/Dairy-goat-breed-for-homesteading-Toggenburg.jpg",
       "category": "Small Animal"
@@ -87,6 +105,9 @@
       "weight": 650,
       "age": 6,
       "location": "Barishal",
+      "sellerName": "Habibur Rahman",
+      "healthStatus": "Excellent",
+      "vaccinated": true,
       "description": "Massive buffalo raised in open grazing fields with proper nutrition.",
       "image": "https://cpimg.tistatic.com/02756950/b/5/Desi-Murrah-Buffalo.jpg",
       "category": "Large Animal"
@@ -100,6 +121,9 @@
       "weight": 590,
       "age": 5,
       "location": "Noakhali",
+      "sellerName": "Foiz Uddin",
+      "healthStatus": "Very Good",
+      "vaccinated": true,
       "description": "Healthy water buffalo suitable for large Qurbani arrangements.",
       "image": "https://i.pinimg.com/736x/a6/79/4e/a6794e8068e1c3fcd520c8c327b07c54.jpg",
       "category": "Large Animal"
@@ -113,6 +137,9 @@
       "weight": 540,
       "age": 4,
       "location": "Patuakhali",
+      "sellerName": "Anwar Hossain",
+      "healthStatus": "Healthy",
+      "vaccinated": false,
       "description": "Naturally raised buffalo with strong body structure and good health.",
       "image": "https://t4.ftcdn.net/jpg/13/20/43/77/360_F_1320437721_YzVmgbJ4fmVqf3OwthzqW2hJkVYLbF6G.jpg",
       "category": "Large Animal"
@@ -126,6 +153,9 @@
       "weight": 28,
       "age": 1,
       "location": "Rangpur",
+      "sellerName": "Imran Sheikh",
+      "healthStatus": "Healthy",
+      "vaccinated": true,
       "description": "Soft wool sheep raised with care and healthy feeding habits.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/White_sheep_-_Avebury%2C_Wiltshire%2C_England_-_DSC00332.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "category": "Small Animal"
@@ -139,6 +169,9 @@
       "weight": 40,
       "age": 2,
       "location": "Dinajpur",
+      "sellerName": "Kamrul Hasan",
+      "healthStatus": "Excellent",
+      "vaccinated": true,
       "description": "Premium quality ram sheep with attractive appearance and strong health.",
       "image": "https://www.innovis.org.uk/wp-content/uploads/2025/01/DSC_5560.75-scaled.jpg",
       "category": "Small Animal"
@@ -152,12 +185,14 @@
       "weight": 32,
       "age": 2,
       "location": "Cumilla",
+      "sellerName": "Sohel Rana",
+      "healthStatus": "Very Good",
+      "vaccinated": false,
       "description": "Healthy farm-raised sheep suitable for family Qurbani.",
       "image": "https://tiimg.tistatic.com/fp/1/005/684/healthy-nellore-brown-sheep-692.jpg",
       "category": "Small Animal"
     }
   ],
-
   "featured": [
     {
       "id": 1,
@@ -192,39 +227,34 @@
       "description": "Healthy sheep suitable for small and family qurbani."
     }
   ],
-
-  "qurbaniTips" :[
+  "qurbaniTips": [
     {
-    "id": 1,
-    "badge": "Check Health",
-    "title": "Choose Healthy Animals",
-    "description":"Check the animal’s eyes, movement, and feeding habits before buying.",
-    "icon": "cow"
-  },
-
-  {
-    "id": 2,
-    "badge": "Verify Health",
-    "title": "Verify Health Condition",
-    "description": "Ensure the animal is vaccinated and farm-raised properly.",
-    "icon": "injection"
-  },
-
-  {
-    "id": 3,
-    "badge": "Check Age",
-    "title": "Check Age Properly",
-    "description":"Select animals that meet the Islamic Qurbani age requirements.",
-    "icon": "ruler"
-  },
-
-  {
-    "id": 4,
-    "badge": "Book Early",
-    "title": "Verify Animal's Health",
-    "description": "Early booking helps avoid price increases before Eid.",
-    "icon": "truck"
-  }
-
+      "id": 1,
+      "badge": "Check Health",
+      "title": "Choose Healthy Animals",
+      "description": "Check the animal’s eyes, movement, and feeding habits before buying.",
+      "icon": "cow"
+    },
+    {
+      "id": 2,
+      "badge": "Verify Health",
+      "title": "Verify Health Condition",
+      "description": "Ensure the animal is vaccinated and farm-raised properly.",
+      "icon": "injection"
+    },
+    {
+      "id": 3,
+      "badge": "Check Age",
+      "title": "Check Age Properly",
+      "description": "Select animals that meet the Islamic Qurbani age requirements.",
+      "icon": "ruler"
+    },
+    {
+      "id": 4,
+      "badge": "Book Early",
+      "title": "Verify Animal's Health",
+      "description": "Early booking helps avoid price increases before Eid.",
+      "icon": "truck"
+    }
   ]
 }
